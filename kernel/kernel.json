@@ -1,0 +1,9 @@
+{
+    "argv": [
+		"quonnotes",
+    	"{connection_file}"
+    	],
+    "display_name": "QuonNotes",
+    "language": "quon",
+    "name": "quon"
+}
